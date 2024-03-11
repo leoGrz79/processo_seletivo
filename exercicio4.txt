@@ -1,0 +1,7 @@
+- Ligo o primeiro interruptor e o deixo ligado por alguns minutos.
+- Desligo o primeiro e ligo o segundo interruptor e o deixo ligado.
+- O terceiro interruptor é mantido desligado
+- Vou a sala onde encontram-se as lâmpadas. 
+Se uma lâmpada estiver acessa, significa que o segundo interruptor a controla.
+Se uma lâmpada estiver apagada e fria, significa que o terceiro interruptor a controla.
+Se uma lâmpada estiver apagada e quente, significa que o primeiro interruptor a controla.
